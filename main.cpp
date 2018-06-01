@@ -244,7 +244,7 @@ int main() {
 				cout << "path does not exist" << endl;
 			}
 			else {
-				cout << "shortest path: " << pathLength << endl;
+				cout << "length: " << pathLength << endl;
 			}
 		}
 		//quit
